@@ -1,1 +1,1 @@
-# CI2024_lab0
+From the first lesson: "Learning is more “guess n’ check”"
